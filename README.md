@@ -1,9 +1,9 @@
-# IT.BR Website Wordpress
+Wordpress
 
-App URL: https://www.itbr.com.au
+App URL: https://notdefined
 
 ```
-# Account Number: 335071203852 #DNX Mgmt  
+# Account Number:  
 # Region: ap-southeast-2
 ```
 
